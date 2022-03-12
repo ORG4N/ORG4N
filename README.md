@@ -1,16 +1,15 @@
-### Hi there 👋
+#### Stage 1 Modules:
+  - [COMP 1000 - Software Engineering](https://github.com/ORG4N/software-engineering-1)
+  - COMP 1001 - Computer Systems
+  - COMP 1002 - Cyber Security & Networks
+  - [COMP 1003 - Algorithms, Data Structures and Mathematics](https://github.com/ORG4N/algorithms-data-structures-and-mathematics)
+  - [COMP 1004 - Computing Practice](https://github.com/ORG4N/computing-practice)
 
-<!--
-**ORG4N/ORG4N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+    
+#### Stage 2 Modules:
+  - [COMP 2000 - Software Engineering 2](https://github.com/ORG4N/software-engineering-2)
+  - [COMP 2001 - Information Management & Retrieval](https://github.com/ORG4N/information-management-and-retrieval)
+  - COMP 2002 - Artificial Intelligence
+  - COMP 2003 - Computing Group Project
+  - COMP 2004 - Embedded Programming and the Internet of Things
