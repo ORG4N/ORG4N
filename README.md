@@ -1,6 +1,6 @@
 #### Stage 1 Modules:
   - [COMP 1000 - Software Engineering](https://github.com/ORG4N/software-engineering-1)
-  - COMP 1001 - Computer Systems
+  - [COMP 1001 - Computer Systems](https://github.com/ORG4N/computer-systems)
   - COMP 1002 - Cyber Security & Networks
   - [COMP 1003 - Algorithms, Data Structures and Mathematics](https://github.com/ORG4N/algorithms-data-structures-and-mathematics)
   - [COMP 1004 - Computing Practice](https://github.com/ORG4N/computing-practice)
