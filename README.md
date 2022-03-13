@@ -13,3 +13,7 @@
   - COMP 2002 - Artificial Intelligence
   - COMP 2003 - Computing Group Project
   - COMP 2004 - Embedded Programming and the Internet of Things
+
+---
+
+#### Personal Projects:
