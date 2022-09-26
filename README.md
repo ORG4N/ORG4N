@@ -10,9 +10,9 @@
 #### Stage 2 Modules:
   - [COMP 2000 - Software Engineering 2](https://github.com/ORG4N/software-engineering-2)
   - [COMP 2001 - Information Management & Retrieval](https://github.com/ORG4N/information-management-and-retrieval)
-  - COMP 2002 - Artificial Intelligence
-  - COMP 2003 - Computing Group Project
-  - COMP 2004 - Embedded Programming and the Internet of Things
+  - [COMP 2002 - Artificial Intelligence](https://github.com/ORG4N/artificial-intelligence)
+  - [COMP 2003 - Computing Group Project](https://github.com/ORG4N/computing-group-project)
+  - [COMP 2004 - Embedded Programming and the Internet of Things](https://github.com/ORG4N/embedded-programming-iot)
 
 ---
 
