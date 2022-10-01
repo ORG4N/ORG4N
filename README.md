@@ -16,4 +16,13 @@
 
 ---
 
+#### Stage 2 Modules:
+  - [COMP 3000 - Computing Project]
+  - [COMP 3001 - Parallel Computing]
+  - [COMP 3002 - Alternative Paradigms]
+  - [COMP 3003 - Machine Learning]
+  - [COMP 3004 - Advanced Computing and Networking Infrastructures]
+
+---
+
 #### Personal Projects:
