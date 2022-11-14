@@ -16,7 +16,7 @@
 
 ---
 
-#### Stage 2 Modules:
+#### Stage 3 Modules:
   - [COMP 3000 - Computing Project](https://github.com/ORG4N/ChessAI)
   - [COMP 3001 - Parallel Computing](https://github.com/ORG4N/parallel-computing)
   - [COMP 3002 - Alternative Paradigms]
