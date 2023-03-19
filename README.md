@@ -19,9 +19,9 @@
 #### Stage 3 Modules:
   - [COMP 3000 - Computing Project](https://github.com/ORG4N/ChessAI)
   - [COMP 3001 - Parallel Computing](https://github.com/ORG4N/parallel-computing)
-  - [COMP 3002 - Alternative Paradigms]
+  - [COMP 3002 - Alternative Paradigms](https://github.com/ORG4N/alternative-paradigms)
   - [COMP 3003 - Machine Learning](https://github.com/ORG4N/machine-learning)
-  - [COMP 3004 - Advanced Computing and Networking Infrastructures]
+  - [COMP 3004 - Advanced Computing and Networking Infrastructures](https://github.com/ORG4N/advanced-computing-networking-infrastructures)
 
 ---
 
