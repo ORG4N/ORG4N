@@ -26,3 +26,5 @@
 ---
 
 #### Personal Projects:
+  - [EcoBadge (v2)](https://github.com/ORG4N/ecobadge)
+  - [Platformer Game]()
