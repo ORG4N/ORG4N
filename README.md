@@ -27,5 +27,4 @@
 
 #### Personal Projects:
   - [EcoBadge (v2)](https://github.com/ORG4N/ecobadge)
-  - [Platformer Game](https://github.com/ORG4N/platformer)
-  - [Country Guessing Game](https://github.com/ORG4N/MapApp)
+
